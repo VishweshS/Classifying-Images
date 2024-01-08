@@ -2,7 +2,7 @@ Project done as part of the course CS135 (Introduction to Machine Learning), Fal
 
 Abstract of the project:
 <br>
-To construct a classifier to map a given grayscale image to the type of clothing it depicts using the FashionMNIST-6 dataset. FashionMNIST-6 is a custom subset of FashionMNIST<sup>1</sup> dataset. Each image is 28x28 pixels, showing the silhouette of an item of clothing. There are 6 possible classes. The possible classes are dress, pullover, top, trouser, sandal, and sneaker. 
+To construct a classifier to map a given grayscale image to the type of clothing it depicts using the FashionMNIST-6 dataset. FashionMNIST-6 is a custom subset of the FashionMNIST<sup>1</sup> dataset. Each image is 28x28 pixels, showing the silhouette of an item of clothing. There are 6 possible classes. The possible classes are dress, pullover, top, trouser, sandal, and sneaker. 
 
 <br>
 
